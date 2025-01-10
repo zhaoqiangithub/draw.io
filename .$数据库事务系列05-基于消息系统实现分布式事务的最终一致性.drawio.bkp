@@ -1,0 +1,66 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
+    <mxGraphModel dx="1302" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-96" value="消息系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-97" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-98" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-99" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Helvetica&quot;&gt;本地事务会员服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-104" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="130" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;shadow=1;flowAnimation=1;" edge="1" parent="1" source="d4-nYYnj3sPqCGqGh7gW-106" target="d4-nYYnj3sPqCGqGh7gW-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="195" />
+              <mxPoint x="230" y="513" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-106" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;预发送消息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-107" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;执行业务逻辑用户注册&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-108" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;接口返回查询&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-109" value="业务数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-110" value="消息系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-111" value="存储消息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="490" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-112" value="更新消息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="534.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-113" value="回查消息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="580" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-114" value="确认消息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="370" y="630" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-115" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="640" y="470" width="130" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="d4-nYYnj3sPqCGqGh7gW-116" value="消息数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="550" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
